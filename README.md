@@ -2,8 +2,10 @@
 
 ---
 
+<!---
 [![Stories in Ready](https://badge.waffle.io/marlabrizel/the_pivot.svg?label=ready&title=Ready)](http://waffle.io/marlabrizel/the_pivot) [![Build Status](https://travis-ci.org/marlabrizel/the_pivot.svg)](https://travis-ci.org/marlabrizel/the_pivot)
 [![Coverage Status](https://coveralls.io/repos/marlabrizel/the_pivot/badge.svg?branch=master&service=github)](https://coveralls.io/github/marlabrizel/the_pivot?branch=master)
+-->
 
 ##### [Dave Maurer](https://github.com/davemaurer)
 
